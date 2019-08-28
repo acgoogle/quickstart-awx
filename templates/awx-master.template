@@ -303,7 +303,7 @@ Parameters:
       - '21:00'
       - '22:00'
   MasterUserPassword:
-    Description: Master user database Password .
+    Description: Master user database Password.
     Type: String
     NoEcho: 'true'
   MasterUsername:
